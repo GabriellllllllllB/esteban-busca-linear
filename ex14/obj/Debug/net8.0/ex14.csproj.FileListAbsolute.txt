@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\esteba\ex14\bin\Debug\net8.0\ex14.exe
+C:\Users\Gabriel\Desktop\esteba\ex14\bin\Debug\net8.0\ex14.deps.json
+C:\Users\Gabriel\Desktop\esteba\ex14\bin\Debug\net8.0\ex14.runtimeconfig.json
+C:\Users\Gabriel\Desktop\esteba\ex14\bin\Debug\net8.0\ex14.dll
+C:\Users\Gabriel\Desktop\esteba\ex14\bin\Debug\net8.0\ex14.pdb
+C:\Users\Gabriel\Desktop\esteba\ex14\obj\Debug\net8.0\ex14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\esteba\ex14\obj\Debug\net8.0\ex14.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\esteba\ex14\obj\Debug\net8.0\ex14.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\esteba\ex14\obj\Debug\net8.0\ex14.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\esteba\ex14\obj\Debug\net8.0\ex14.dll
+C:\Users\Gabriel\Desktop\esteba\ex14\obj\Debug\net8.0\refint\ex14.dll
+C:\Users\Gabriel\Desktop\esteba\ex14\obj\Debug\net8.0\ex14.pdb
+C:\Users\Gabriel\Desktop\esteba\ex14\obj\Debug\net8.0\ex14.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\esteba\ex14\obj\Debug\net8.0\ref\ex14.dll
