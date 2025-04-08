@@ -1,0 +1,14 @@
+C:\Users\Gabriel\Desktop\esteba\ex9\bin\Debug\net8.0\ex9.exe
+C:\Users\Gabriel\Desktop\esteba\ex9\bin\Debug\net8.0\ex9.deps.json
+C:\Users\Gabriel\Desktop\esteba\ex9\bin\Debug\net8.0\ex9.runtimeconfig.json
+C:\Users\Gabriel\Desktop\esteba\ex9\bin\Debug\net8.0\ex9.dll
+C:\Users\Gabriel\Desktop\esteba\ex9\bin\Debug\net8.0\ex9.pdb
+C:\Users\Gabriel\Desktop\esteba\ex9\obj\Debug\net8.0\ex9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel\Desktop\esteba\ex9\obj\Debug\net8.0\ex9.AssemblyInfoInputs.cache
+C:\Users\Gabriel\Desktop\esteba\ex9\obj\Debug\net8.0\ex9.AssemblyInfo.cs
+C:\Users\Gabriel\Desktop\esteba\ex9\obj\Debug\net8.0\ex9.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel\Desktop\esteba\ex9\obj\Debug\net8.0\ex9.dll
+C:\Users\Gabriel\Desktop\esteba\ex9\obj\Debug\net8.0\refint\ex9.dll
+C:\Users\Gabriel\Desktop\esteba\ex9\obj\Debug\net8.0\ex9.pdb
+C:\Users\Gabriel\Desktop\esteba\ex9\obj\Debug\net8.0\ex9.genruntimeconfig.cache
+C:\Users\Gabriel\Desktop\esteba\ex9\obj\Debug\net8.0\ref\ex9.dll
